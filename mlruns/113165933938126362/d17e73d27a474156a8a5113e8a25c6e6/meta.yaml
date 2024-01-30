@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/d17e73d27a474156a8a5113e8a25c6e6/artifacts
+end_time: 1706623215601
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: d17e73d27a474156a8a5113e8a25c6e6
+run_name: bustling-lark-703
+run_uuid: d17e73d27a474156a8a5113e8a25c6e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706623213348
+status: 3
+tags: []
+user_id: christinechun

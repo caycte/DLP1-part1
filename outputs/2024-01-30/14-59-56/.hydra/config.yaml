@@ -1,0 +1,11 @@
+train:
+  lr: 0.1
+  batch_size: 10
+  num_epochs: 10
+exp:
+  name: Multi-classe Classification on USPS
+  data_path: /data/raw/
+  checkpoint: models/linear
+  seed: 0
+mlflow:
+  runname: ${exp.name}
