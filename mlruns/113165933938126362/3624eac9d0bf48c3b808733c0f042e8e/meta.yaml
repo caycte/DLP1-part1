@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/3624eac9d0bf48c3b808733c0f042e8e/artifacts
+end_time: 1706728654557
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 3624eac9d0bf48c3b808733c0f042e8e
+run_name: efficient-auk-107
+run_uuid: 3624eac9d0bf48c3b808733c0f042e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706728654508
+status: 4
+tags: []
+user_id: christinechun

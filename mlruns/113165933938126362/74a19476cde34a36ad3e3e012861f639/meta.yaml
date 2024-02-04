@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/74a19476cde34a36ad3e3e012861f639/artifacts
+end_time: 1706731679134
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 74a19476cde34a36ad3e3e012861f639
+run_name: fearless-stoat-729
+run_uuid: 74a19476cde34a36ad3e3e012861f639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706731679083
+status: 4
+tags: []
+user_id: christinechun

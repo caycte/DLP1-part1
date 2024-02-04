@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/a22e4fa2fd24406690c94b35069dcc9f/artifacts
+end_time: 1706728840693
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: a22e4fa2fd24406690c94b35069dcc9f
+run_name: mercurial-horse-145
+run_uuid: a22e4fa2fd24406690c94b35069dcc9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706728840642
+status: 4
+tags: []
+user_id: christinechun

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/7f25189733bc4676ba670f4efc2abad6/artifacts
+end_time: 1706728372487
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 7f25189733bc4676ba670f4efc2abad6
+run_name: bright-lamb-917
+run_uuid: 7f25189733bc4676ba670f4efc2abad6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706728372438
+status: 4
+tags: []
+user_id: christinechun

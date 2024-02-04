@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/58c3dda7cc9c4510b93f49aa9b9b5105/artifacts
+end_time: 1707065184637
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 58c3dda7cc9c4510b93f49aa9b9b5105
+run_name: nimble-goat-900
+run_uuid: 58c3dda7cc9c4510b93f49aa9b9b5105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707065184526
+status: 3
+tags: []
+user_id: christinechun

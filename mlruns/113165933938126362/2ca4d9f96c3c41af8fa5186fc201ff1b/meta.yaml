@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/2ca4d9f96c3c41af8fa5186fc201ff1b/artifacts
+end_time: 1706728973908
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 2ca4d9f96c3c41af8fa5186fc201ff1b
+run_name: masked-mouse-654
+run_uuid: 2ca4d9f96c3c41af8fa5186fc201ff1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706728973887
+status: 4
+tags: []
+user_id: christinechun

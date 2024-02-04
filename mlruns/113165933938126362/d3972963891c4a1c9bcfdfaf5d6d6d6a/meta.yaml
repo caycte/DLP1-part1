@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/d3972963891c4a1c9bcfdfaf5d6d6d6a/artifacts
+end_time: 1706730940077
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: d3972963891c4a1c9bcfdfaf5d6d6d6a
+run_name: abrasive-steed-477
+run_uuid: d3972963891c4a1c9bcfdfaf5d6d6d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706730940026
+status: 4
+tags: []
+user_id: christinechun

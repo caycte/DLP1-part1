@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/169c8e2b461d480c9e3290099b118894/artifacts
+end_time: 1707066064426
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 169c8e2b461d480c9e3290099b118894
+run_name: agreeable-swan-77
+run_uuid: 169c8e2b461d480c9e3290099b118894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707066028268
+status: 3
+tags: []
+user_id: christinechun

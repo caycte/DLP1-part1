@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/11c7663cc4e94178bf3659f02d7819bc/artifacts
+end_time: 1707066067224
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 11c7663cc4e94178bf3659f02d7819bc
+run_name: stylish-pig-757
+run_uuid: 11c7663cc4e94178bf3659f02d7819bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707066064628
+status: 3
+tags: []
+user_id: christinechun

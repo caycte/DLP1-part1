@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/2146fe2103db4b33b7cac916ed008c1f/artifacts
+end_time: 1707065940487
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 2146fe2103db4b33b7cac916ed008c1f
+run_name: redolent-croc-840
+run_uuid: 2146fe2103db4b33b7cac916ed008c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707065904716
+status: 3
+tags: []
+user_id: christinechun

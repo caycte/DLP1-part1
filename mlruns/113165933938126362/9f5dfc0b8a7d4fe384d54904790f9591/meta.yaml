@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/9f5dfc0b8a7d4fe384d54904790f9591/artifacts
+end_time: 1706728053681
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 9f5dfc0b8a7d4fe384d54904790f9591
+run_name: bouncy-shad-234
+run_uuid: 9f5dfc0b8a7d4fe384d54904790f9591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706728053665
+status: 4
+tags: []
+user_id: christinechun

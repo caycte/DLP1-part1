@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/365a7d3ea5404e089008144a63516180/artifacts
+end_time: 1707065183917
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 365a7d3ea5404e089008144a63516180
+run_name: tasteful-loon-784
+run_uuid: 365a7d3ea5404e089008144a63516180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707065144907
+status: 3
+tags: []
+user_id: christinechun

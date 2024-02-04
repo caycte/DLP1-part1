@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christinechun/Downloads/DLP1-part1/mlruns/113165933938126362/05f230172a324b6ab1d3502f259287f9/artifacts
+end_time: 1706727792792
+entry_point_name: ''
+experiment_id: '113165933938126362'
+lifecycle_stage: active
+run_id: 05f230172a324b6ab1d3502f259287f9
+run_name: invincible-toad-625
+run_uuid: 05f230172a324b6ab1d3502f259287f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706727792777
+status: 4
+tags: []
+user_id: christinechun
